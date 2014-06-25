@@ -25,6 +25,7 @@ function parseHeaders(headers) {
     }
   });
 
+  // Return parsed info
   return parsed;
 }
 
